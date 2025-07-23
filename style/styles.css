@@ -1,0 +1,32 @@
+.boss{
+    text-al
+}
+.h2{
+    text-align: center;
+}
+.size label {
+    padding: 50px;
+    box-sizing: initial;
+    width: 30%;
+    
+}
+.size input{
+    gap: 5em;
+}
+.flexbox label input{
+    margin-top: 20px;
+    
+}
+td,th{
+    border: 2px solid black;
+    padding: 20px 50px;
+}
+table{
+    border-collapse: collapse;
+}
+thead{
+    border-collapse: collapse;
+}
+.size{
+    text-align: left;
+}
