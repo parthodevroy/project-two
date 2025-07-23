@@ -1,3 +1,16 @@
+.navigation ul{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    list-style: none;
+}
+.navigation li{
+    font-size: 25px;
+}
+.navigation li a{
+    list-style: none;
+    text-decoration: none;
+}
 .new-year, img{
     display: flex;
     justify-content: center;
@@ -45,6 +58,15 @@ padding-top: 20px;
 .card h3{
     font-size: larger;
     color: cyan;
+}
+.contact-title{
+    display: flex;
+    justify-content: center;
+} 
+.contact-info{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
 }
 /* responsive part */
 @media screen and (max-width:576px){
